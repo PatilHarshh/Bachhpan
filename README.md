@@ -36,6 +36,10 @@ Bachhpan is a powerful browser extension designed to enhance online safety for c
 
 Contributions to Bachhpan are welcome! If you have suggestions, bug reports, or feature requests, please submit an issue or a pull request.
 
+**Contributors**
+- [Harsh Patil](https://github.com/patilharshh/)
+- [Prasad Chavan](https://github.com/prasad-chavan1/)
+
 ## 📝 License
 
 This project is licensed under the [MIT License](LICENSE).
